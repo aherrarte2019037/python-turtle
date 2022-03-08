@@ -1,3 +1,7 @@
+#Ejercio 1 turtle.Parte 2
+#Irving Morales, Angel Herrarte.
+#Crear un algoritmo que dibuje la figura brindada en la hoja de instrucciones
+
 #IMPORTAR TURTLE
 import turtle;
 
