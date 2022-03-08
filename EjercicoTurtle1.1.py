@@ -17,7 +17,7 @@ def verificarLongitud(longitud):
 print("---Hola, hermana. Vamos a dibujar un hexágono---");
 print("Recuerda que todos sus lados deben ser iguales. \n\n¿Cuánto quieres que mida cada lado?");
 
-#BUCLE PAREA PREGUNAR LONGITUD
+#BUCLE PARA PREGUNAR LONGITUD
 while not continuar:
     try:
         longitud_lado = float(input("Longitud: "));
